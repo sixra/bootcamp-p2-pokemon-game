@@ -14,7 +14,7 @@ Other contributors:
 Arty (https://github.com/awartanian);     
 Heydar (https://github.com/Heman-Development);
 
-https://ratko-sim.github.io/pokemon-game 
+[Pokemon Game Demo](https://sixra.github.io/bootcamp-p2-pokemon-game/)
 
 # Pokemon Lite
 
